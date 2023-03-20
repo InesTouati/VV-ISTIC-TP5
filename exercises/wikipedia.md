@@ -12,3 +12,4 @@ The process is as follows:
 Include the code of the walker and the snapshot in this document.
 
 ## Answer
+Le code est présent dans le fichier [WikipediaWalker.java](..%2Fcode%2Fex1%2Fsrc%2Fmain%2Fjava%2FWikipediaWalker.java)
